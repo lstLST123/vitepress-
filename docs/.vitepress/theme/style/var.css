@@ -1,0 +1,52 @@
+:root {
+    --vp-c-brand-1: #e29e00;
+    --vp-c-brand-2: #d99d25;
+    --vp-c-brand-3: #f9c731;
+
+    /* 标题 */
+    --vp-home-hero-name-color: transparent;
+    --vp-home-hero-name-background: linear-gradient(135deg, #F6D242 10%, #FF52E5 100%);
+
+    /* 图标背景 */
+    --vp-home-hero-image-background-image: linear-gradient(135deg, #F6D242 10%, #FF52E5 100%);
+    --vp-home-hero-image-filter: blur(150px);
+}
+
+.dark {
+    --vp-c-brand-1: #dfa736;
+    --vp-c-brand-2: #bd8920;
+    --vp-c-brand-3: #e0b534;
+}
+
+/* .vitepress\theme\style\var.css */
+/* 引用块 */
+.vp-doc blockquote {
+    border-radius: 5px;
+    padding: 10px 16px;
+    background-color: var(--vp-badge-danger-bg);
+    position: relative;
+    border-left: 4px solid #e95f59;
+}
+
+/* .vitepress\theme\style\var.css */
+/* 提示框背景颜色 */
+:root {
+    --vp-custom-block-tip-bg: var(--vp-c-green-soft);
+}
+
+/* 提示框 */
+.custom-block.tip {
+    border-color: var(--vp-c-green-2);
+}
+
+/* 警告框 */
+.custom-block.warning {
+    /* border-color: #d97706; */
+    border-color: var(--vp-c-yellow-2);
+}
+
+/* 危险框 */
+.custom-block.danger {
+    /* border-color: #f43f5e; */
+    border-color: var(--vp-c-red-2);
+}
