@@ -12,7 +12,7 @@ export default {
     socialLinks: [
       { icon: "github", link: "https://github.com/vuejs/vitepress" }
     ],
-    head: [['link', { rel: 'icon', href: '/vitepress_blog/favicon.ico' }]],
+    head: [['link', { rel: 'icon', href: 'favicon.ico' }]],
     nav: nav,
     sidebar: sidebar,
     search: {
