@@ -7,6 +7,10 @@ export default {
   cleanUrls: true,  
   lastUpdated: true,
   themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/lstLST123/vitepress_blog/tree/main/docs/:path',
+      text: 'Edit this page on GitHub'
+    },
     siteTitle: "IT BLOG",
     logo: "/favicon.png",
     socialLinks: [
