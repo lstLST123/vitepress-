@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /web/vue
+      link: /web/git/Git分布式版本控制工具
     - theme: alt
       text: 在 Gitee 上查看
       link: https://gitee.com/vuejs/vitepress

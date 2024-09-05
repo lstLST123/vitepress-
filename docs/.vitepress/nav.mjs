@@ -1,6 +1,6 @@
 export default [
   { text: '首页', link: '/' },
-  {text: 'Git', link: '/web/git/Git分布式版本控制工具'},  
+  {text: 'git', link: '/web/git/Git分布式版本控制工具'},
   {
     text: '前端',
     items: [

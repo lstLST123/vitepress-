@@ -1,5 +1,6 @@
 import nav from "./nav.mjs"
 import sidebar from "./sidebar.mjs"
+
 export default {
     base: '/vitepress_blog/',
     title: 'IT BLOG',
