@@ -1946,7 +1946,7 @@ Promise
 ![image-20220814105448882](.\imgs\image-20220814105448882.png)
 
 * 只要协议、主机、端口之一不同，就不同源，例如
-  * http://localhost:7070/a 和 https://localhost:7070/b 就不同源
+  * `http://localhost:7070/a` 和 `https://localhost:7070/b` 就不同源
 * 同源检查是浏览器的行为，而且只针对 fetch、xhr 请求
   * 如果是其它客户端，例如 java http client，postman，它们是不做同源检查的
   * 通过表单提交、浏览器直接输入 url 地址这些方式发送的请求，也不会做同源检查

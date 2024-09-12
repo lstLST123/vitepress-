@@ -2503,8 +2503,8 @@ export default router
 ```
 
 * createWebHashHistory 是用 # 符号作为【单页面】跳转技术，上面两个路由访问时路径格式为
-  * http://localhost:7070/#/a1
-  * http://localhost:7070/#/a2
+  * `http://localhost:7070/#/a1`
+  * `http://localhost:7070/#/a2`
 
 * 每个路由都有两个必须属性
 
