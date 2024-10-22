@@ -50,6 +50,22 @@ export default [
       },
     ],
   },
+
+  {
+    text: '数据库学习',
+    items: [
+      {
+        text: 'SQL学习',
+        items: [
+          {
+            text: '常用sql',
+            link: '/web/sql/',
+          },
+        ],
+      },
+    ],
+  },
+
   {
     text: '编程秘籍',
     items: [
