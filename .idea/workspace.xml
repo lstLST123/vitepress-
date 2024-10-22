@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="598ddaa3-48c9-4256-bba3-e8eb8e252e14" name="Changes" comment="更新" />
+    <list default="true" id="598ddaa3-48c9-4256-bba3-e8eb8e252e14" name="Changes" comment="更新vue和react文档" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,18 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "lstLST123"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;lstLST123&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/lstLST123/vitepress_blog.git",
-    "accountId": "166fc3e5-9d7e-4da6-a24a-07f9eabf198e"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/lstLST123/vitepress_blog.git&quot;,
+    &quot;accountId&quot;: &quot;166fc3e5-9d7e-4da6-a24a-07f9eabf198e&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -40,29 +40,36 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lGc6rwHLbc1dRiISfqm9MYQJYV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/2024年康弘/ing/vitepress_blog/docs/web/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.runner&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\2024年康弘\ing\vitepress_blog\docs\web\java" />
+      <recent name="D:\2024年康弘\ing\vitepress_blog\docs\web\java\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -80,6 +87,11 @@
       <option name="presentableId" value="Default" />
       <updated>1715665810090</updated>
       <workItem from="1724809687747" duration="8744000" />
+      <workItem from="1724979565954" duration="10712000" />
+      <workItem from="1725500252527" duration="677000" />
+      <workItem from="1725510694980" duration="3585000" />
+      <workItem from="1725939702165" duration="2868000" />
+      <workItem from="1726108075840" duration="1861000" />
     </task>
     <task id="LOCAL-00001" summary="添加部署">
       <option name="closed" value="true" />
@@ -145,15 +157,120 @@
       <option name="project" value="LOCAL" />
       <updated>1724821554027</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="添加在github上编辑">
+      <option name="closed" value="true" />
+      <created>1724979904773</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724979904773</updated>
+    </task>
+    <task id="LOCAL-00010" summary="更改git文件">
+      <option name="closed" value="true" />
+      <created>1724980491348</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724980491348</updated>
+    </task>
+    <task id="LOCAL-00011" summary="更改git文件">
+      <option name="closed" value="true" />
+      <created>1724980632006</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724980632006</updated>
+    </task>
+    <task id="LOCAL-00012" summary="更改git文件">
+      <option name="closed" value="true" />
+      <created>1724980888782</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724980888782</updated>
+    </task>
+    <task id="LOCAL-00013" summary="上传Java手册">
+      <option name="closed" value="true" />
+      <created>1724996936360</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1724996936360</updated>
+    </task>
+    <task id="LOCAL-00014" summary="更新">
+      <option name="closed" value="true" />
+      <created>1724997049355</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1724997049355</updated>
+    </task>
+    <task id="LOCAL-00015" summary="更新">
+      <option name="closed" value="true" />
+      <created>1725510770415</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1725510770415</updated>
+    </task>
+    <task id="LOCAL-00016" summary="更新git文档">
+      <option name="closed" value="true" />
+      <created>1725940542623</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1725940542623</updated>
+    </task>
+    <task id="LOCAL-00017" summary="上传vue和react文档">
+      <option name="closed" value="true" />
+      <created>1726108384531</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1726108384532</updated>
+    </task>
+    <task id="LOCAL-00018" summary="更新vue和react文档">
+      <option name="closed" value="true" />
+      <created>1726109584932</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1726109584932</updated>
+    </task>
+    <task id="LOCAL-00019" summary="更新vue和react文档">
+      <option name="closed" value="true" />
+      <created>1726109824111</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1726109824111</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="添加部署" />
+    <MESSAGE value="添加在github上编辑" />
+    <MESSAGE value="更改git文件" />
+    <MESSAGE value="上传Java手册" />
     <MESSAGE value="更新" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新" />
+    <MESSAGE value="更新git文档" />
+    <MESSAGE value="上传vue和react文档" />
+    <MESSAGE value="更新vue和react文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新vue和react文档" />
   </component>
 </project>
